@@ -164,6 +164,6 @@ Streamlit will open a browser window (or give you a local URL such as `http://lo
 
 ### Developed by
 
-**Nikita Mishra**  
+**Kshitij Pathak**  
 BSc IT – Final Year
 
