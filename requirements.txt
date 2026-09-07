@@ -1,0 +1,17 @@
+Flask
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+bcrypt
+numpy
+scipy
+matplotlib
+pandas
+flasgger
+streamlit
+streamlit-lottie
+seaborn
+scikit-learn
+requests
